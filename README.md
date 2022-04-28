@@ -2,7 +2,6 @@
 
 # Deep-Learning-Nueral-Network
 
-![](deeplearningml.jpg)
 
 Due to the volatility of cryptocurrency speculation, investors will often try to incorporate sentiment from social media and news articles to help guide their trading strategies. One such indicator is the Crypto Fear and Greed Index (FNG) which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency. 
 
@@ -37,7 +36,7 @@ Used the same parameters and training steps for each model. This was necessary t
 Evaluated the performance of each model
 Finally, used the testing data to evaluate each model and compared the performance.
 
-
+![](deeplearningml.jpg)
 
 Resources
 Keras Sequential Model Guide
